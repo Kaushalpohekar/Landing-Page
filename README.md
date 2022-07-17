@@ -1,7 +1,8 @@
 # Landing Page of Raut Farm's
 Simple Landing page for Raut Farms presenting services and detail in formation about raut farms.<br>
 # Languages Used
-HtML, CSS, JS and Bootstrap easy to understand code.
+HtML, CSS, JS and Bootstrap.<br>
+Easy to understand code written.
 # Screenshot
 You can view the project by clicking on the demo Button.
 ![Output Snip](./assets/images/output.png)
